@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. get intern job
+2. win kaggle medal
+   
